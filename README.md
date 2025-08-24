@@ -18,8 +18,8 @@
 - 👯 &nbsp; Procuro colaborar em projetos de código aberto, especialmente com **[Kotlin]**.
 - 🤔 &nbsp; Busco ajuda com **[ conceitos avançados de Kotlin e outros]**.
 - 💬 &nbsp; Me pergunte sobre **[Assunto que você domina, ex: JavaScript, Inglês, etc]**.
-- 📫 &nbsp; Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/HendrilSoares)
-- ⚡ &nbsp; Curiosidade: Além de programar, eu adoro [Games e].
+- 📫 &nbsp; Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([](https://www.linkedin.com/in/hendril-soares-7b52a8235))
+- ⚡ &nbsp; Curiosidade: Além de programar, eu adoro [Games ].
 
 ---
 

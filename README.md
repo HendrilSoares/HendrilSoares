@@ -60,7 +60,7 @@ Aqui está uma lista das tecnologias com as quais tenho trabalhado. Meu objetivo
 Estou sempre aberto(a) a me conectar com outros(as) desenvolvedores(as) e aprendizes. Sinta-se à vontade para entrar em contato!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/HendrilSoares/">
+  <a href="[https://www.linkedin.com/in/HendrilSoares/](https://www.linkedin.com/in/hendril-soares-7b52a8235)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
